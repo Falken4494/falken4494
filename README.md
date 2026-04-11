@@ -1,6 +1,9 @@
 ## Hi there 👋 im falken 
 - 🔭 I’m currently working on an otonom mini sumo and a website made to learn languages
 - 🌱 I’m currently learning mvc,javascript and gdscript
+## About Me 
+I am an 11th grade Information Technology student with a strong interest in web development, game design, and autonomous systems. I enjoy building innovative projects and continuously expanding my knowledge of emerging technologies. Passionate about problem-solving and creativity, I am eager to explore new tools and frameworks to enhance my skills and contribute to impactful solutions.
+
 <!--
 **Falken4494/falken4494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
