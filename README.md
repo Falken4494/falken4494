@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋 im falken 
+- 🔭 I’m currently working on an otonom mini sumo and a website made to laern languages
+- 🌱 I’m currently learning mvc,javascript and gdscript
 <!--
 **Falken4494/falken4494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
