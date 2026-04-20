@@ -1,9 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=falken4494&label=Profile%20views&color=0e75b6&style=flat" alt="falken4494" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falken4494" alt="falken4494" /></a> </p>
-
 - 🔭 I’m currently working on **an otonom mini sumo and a website made to learn languages**
 
 - 🌱 I’m currently learning **mvc,javascript and gdscript**
@@ -66,6 +62,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falken4494&show_icons=true&locale=en&layout=compact" alt="falken4494" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=falken4494&show_icons=true&locale=en&layout=compact" alt="falken4494" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falken4494&show_icons=true&locale=en" alt="falken4494" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=falken4494&label=Profile%20views&color=0e75b6&style=flat" alt="falken4494" /> </p>
+
