@@ -48,4 +48,9 @@ I am an 11th grade Information Technology student with a strong interest in web 
   <tr>
     <td colspan="3"><b>🛠️ Platforms & Hardware</b></td>
   </tr>
-  <tr>
+  <tr>    <tr>
+    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a></td>
+  </tr>
+</table>
