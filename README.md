@@ -60,9 +60,3 @@
   </tr>
 </table>
 
-<br>
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=falken4494&label=Profile%20views&color=0e75b6&style=flat" alt="falken4494" /> </p>
-
