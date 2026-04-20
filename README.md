@@ -62,9 +62,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=falken4494&show_icons=true&locale=en&layout=compact" alt="falken4494" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falken4494&show_icons=true&locale=en" alt="falken4494" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=falken4494&label=Profile%20views&color=0e75b6&style=flat" alt="falken4494" /> </p>
 
