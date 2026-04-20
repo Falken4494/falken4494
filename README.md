@@ -1,15 +1,9 @@
-<h1>hi there 👋 im falken<h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+## Hi there 👋 im falken 
+- 🔭 I’m currently working on an otonom mini sumo and a website made to learn languages
+- 🌱 I’m currently learning mvc,javascript and gdscript
+## About Me 
+I am an 11th grade Information Technology student with a strong interest in web development, game design, and autonomous systems. I enjoy building innovative projects and continuously expanding my knowledge of emerging technologies. Passionate about problem-solving and creativity, I am eager to explore new tools and frameworks to enhance my skills and contribute to impactful solutions.
 
-- 🔭 I’m currently working on **an otonom mini sumo and a website made to learn languages**
-
-- 🌱 I’m currently learning **mvc,javascript and gdscript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <table>
   <tr>
@@ -55,9 +49,3 @@
     <td colspan="3"><b>🛠️ Platforms & Hardware</b></td>
   </tr>
   <tr>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a></td>
-  </tr>
-</table>
-
