@@ -1,6 +1,6 @@
 <h1>hi there 👋 im falken<h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **an otonom mini sumo and a website made to learn languages**
 
